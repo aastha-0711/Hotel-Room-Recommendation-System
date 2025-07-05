@@ -11,3 +11,7 @@ failed_urls.txt
 
 # IDE settings
 .vscode/
+
+# Ignore bytecode files within DeepImageSearch
+DeepImageSearch/__pycache__/
+DeepImageSearch/*.pyc
