@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+venv/
+
+# Large data
+static/images/
+static/ipImages/
+download_images.py
+failed_urls.txt
+
+# IDE settings
+.vscode/
