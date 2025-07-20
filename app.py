@@ -26,9 +26,7 @@ except Exception as e:
     exit()
 
 # ---------- Title ----------
-print("\n📘 CSE3013 Artificial Intelligence Project Review 2")
 print("📌 Title: Hotel Room Recommendation System Using Image Similarity")
-print("👥 Team Members:\n19BCI0001: Dayeem Parkar\n19BCI0036: Akashdeep\n19BCE0891: Anmol")
 
 # ---------- User Input ----------
 try:
